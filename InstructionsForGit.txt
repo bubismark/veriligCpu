@@ -1,0 +1,11 @@
+hi a few basic steps for beginners in  git : 
+1.go to this address  https://support.codebasehq.com/articles/getting-started/git-on-windows
+and follow instructions for install 
+2.go to a folder you want to work on -> right click and select git bash here . it will open a bash terminal 
+type in the git init command it should look like this 
+$ git init 
+3.then go to our git website path :  https://github.com/bubismark/veriligCpu/tree/master
+4.right next to the new file  find file there is an address this is our reposetory adrees in git hub copy it .
+5.back to our bash command line . enter command git clone path to our repostery it should look somthing like this 
+$ git clone https://github.com/bubismark/veriligCpu/tree/master this will clone all files in reposetry to youre local git 
+folder (including this file )
