@@ -1,0 +1,1 @@
+this is a test file explaining how to use simple command on git 
